@@ -36,7 +36,7 @@ Step 5: Visualization & Interpretation
 Plot price movement, returns, volatility, and drawdowns
 Use visual analysis to interpret market behavior during calm and turbulent periods
 
-Final Output:
+3. Final Output:  
 A structured analysis that clearly explains:
 How the stock behaves over time,
 How risky it is and
