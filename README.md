@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ## Usage  
 Example workflow from the main script:  
-👉 Reference:  
+Reference:  
 ```
 ticker = "AAPL"
 start_date = "2020-01-01"
