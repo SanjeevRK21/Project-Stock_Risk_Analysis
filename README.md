@@ -53,7 +53,7 @@ Price Data → Log Returns → Risk Metrics → Risk-Adjusted Metrics → Visual
 
 ## Installation   
 ```
-git clone https://github.com/your-username/your-repo-name.git  
+git clone https://github.com/SanjeevRK21/Project-Stock_Risk_Analysis.git
 cd your-repo-name  
   
 pip install -r requirements.txt  
